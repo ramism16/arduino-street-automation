@@ -1,0 +1,10 @@
+Arduino Uno R3
+
+Inputs (powered by +5V):  KY = Keyes electronics
+KY-033 IR Line Tracker
+KY-004 Key switch (button)
+KY-018 Photoresistor module
+
+Outputs:
+KY-016 RGB LED module
+Yellow LEDs
